@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p22Rss\p22Rss\bin\Debug\p22Rss.exe.config
+C:\Users\mberk\source\repos\p22Rss\p22Rss\bin\Debug\p22Rss.exe
+C:\Users\mberk\source\repos\p22Rss\p22Rss\bin\Debug\p22Rss.pdb
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.Form1.resources
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.Properties.Resources.resources
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.exe
+C:\Users\mberk\source\repos\p22Rss\p22Rss\obj\Debug\p22Rss.pdb
